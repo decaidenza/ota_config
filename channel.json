@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1746229856,
+      "filename": "lineage-18.1-20250502-UNOFFICIAL-channel.zip",
+      "id": "3fab22358694b11b25c7c0d5afbaecc7ac74cf790041176de53e28e008ae9bab",
+      "romtype": "UNOFFICIAL",
+      "size": 609878443,
+      "url": "https://github.com/decaidenza/android-builds/releases/download/lineage-18.1-20250502-channel/lineage-18.1-20250502-UNOFFICIAL-channel.zip",
+      "version": "18.1"
+    }
+  ]
+}
